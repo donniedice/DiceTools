@@ -1,0 +1,7 @@
+## Interface: 100207
+## Title: DiceTools
+## Author: DonnieDice
+## Version: 1.0.0
+## SavedVariables: DiceTools
+
+DiceTools.lua
