@@ -1,7 +1,11 @@
-## Interface: 100207
+## Interface: 110000
+## Version: 1.0.1
 ## Title: DiceTools
+## Notes: |cff05dffaBy Uivi US-BleedingHollow|r
 ## Author: DonnieDice
-## Version: 1.0.0
+## Email: donniedice@protonmail.com
+## OptionalDeps: 
+## IconTexture: Interface\AddOns\DiceTools\images\icon
 ## SavedVariables: DiceTools
 
-DiceTools.lua
+data\DiceTools.lua
